@@ -91,7 +91,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 
 
 <details> 
-<summary> <h2> 📕Getting Started-Course 01 - 🐍Python </h2> </summary>
+<summary> <h2> 📕Getting Started-Course 01 - 🐍HTML Basic </h2> </summary>
 
 ##📚 Python Basics
  
@@ -211,9 +211,9 @@ This Chapter introduces students to Streamlit, a powerful open-source app framew
 ## 👁️ Chapter1: - **Free Courses**
 | Title/link| Description | Reading Status |
 |---|---|---|
-|[**✅ 1-Harvard CS50’s Introduction to Programming with Python**](https://www.youtube.com/watch?v=nLRL_NcnK-4)|by Eddy Shyu,Cousera,Goog| InProgress|
-|[**✅ 2-Python Cheat Sheet**](https://vivitoa.github.io/python-cheat-sheet/#file-handling)|by Eddy Shyu,Cousera,Goog| Pending|
-|[**✅ 3-Getting Started with Streamlit**](https://www.pythonguis.com/tutorials/getting-started-with-streamlit/?utm_source=www.pythonweekly.com&utm_medium=newsletter&utm_campaign=python-weekly-issue-693-april-3-2025&_bhlid=4a484e014be2ce61d1f1d95aa1e9f9745c2fa17e)|Stramlite, Other GUI library|
+|[**Figma Crash Course**](https://www.youtube.com/watch?v=jwCmIBJ8Jtc)| Figma Crash Course| InProgress|
+|[**FastAPI Full Course**](https://www.youtube.com/watch?v=0sOvCWFmrtA)|by Eddy Shyu,Cousera,Goog| Pending|
+|[**FastAPI WebSockets Chat Room**](https://www.youtube.com/watch?v=ADVsjLHevtY )|Stramlite, Other GUI library|
 Pending|
 
  👁️ Chapter1: - **Books**
